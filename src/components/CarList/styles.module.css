@@ -1,0 +1,22 @@
+.carTitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.carImage {
+    height: auto;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.loader {
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    height: 100px;
+    justify-content: center;
+}
+
+.button {
+    margin-left: 4px;
+}
